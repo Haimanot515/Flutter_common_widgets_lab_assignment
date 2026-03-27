@@ -1,15 +1,15 @@
 # 📱 Flutter Common Widgets: Lab Assignment Series
 
 ## 👤 Student Information
-**Full Name:** Haimanot Beka Mekonnen  
-**ID Number:** UGR/0869/13  
-**SECTION:**1
+# **Name:** HAIMANOT BEKA MEKONNEN  
+# **ID:** UGR/0869/13  
+# **Section:** 1  
 **Institution:** Addis Ababa University | Addis Ababa Institute of Technology (AAiT)  
 **Department:** Software Engineering (3rd Year)
 
 ---
 
-### 📌 Project Overview
+## 📌 Project Overview
 This repository serves as a comprehensive technical demonstration of cross-platform UI development using the **Flutter SDK** and **Dart Programming Language**. It encapsulates four distinct laboratory assignments, each designed to master specific architectural challenges in mobile application development, ranging from static layout composition to complex state-managed navigation.
 
 ### 🎯 Educational Objectives
