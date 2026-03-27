@@ -2,7 +2,8 @@
 
 ## 👤 Student Information
 **Full Name:** Haimanot Beka Mekonnen  
-**ID Number:** [Insert Your ID Number Here]  
+**ID Number:** UGR/0869/13  
+**SECTION:1**
 **Institution:** Addis Ababa University | Addis Ababa Institute of Technology (AAiT)  
 **Department:** Software Engineering (3rd Year)
 
