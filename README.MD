@@ -36,7 +36,7 @@ This repository serves as a comprehensive technical demonstration of cross-platf
 <img src="https://res.cloudinary.com/dq3jkpys8/image/upload/v1774644589/registration_lab_resxbm.png" width="100%" style="border-radius:10px;" />
 
 
-https://res.cloudinary.com/dq3jkpys8/image/upload/v1774644589/registration_lab_resxbm.png
+
 **Concept:** A robust user onboarding system with integrated validation logic.
 * **Technical Focus:** Data Integrity and User Experience (UX).
 * **Key Widgets:** * `Form` & `GlobalKey<FormState>`: For centralized form management.
