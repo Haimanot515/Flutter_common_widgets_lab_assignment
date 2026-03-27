@@ -45,6 +45,8 @@ https://res.cloudinary.com/dq3jkpys8/image/upload/v1774644589/registration_lab_r
 * **Logic:** Implements conditional logic to prevent submission until all safety parameters are met.
 
 ### 3. Product Catalog Lab (`catalog_lab`)
+<img src="https://res.cloudinary.com/dq3jkpys8/image/upload/v1774644759/catalog_live_view_xwfwal.png" width="100%" style="border-radius:10px;" />
+
 **Concept:** A dynamic, scrollable e-commerce interface.
 * **Technical Focus:** Memory Management and Efficient List Rendering.
 * **Key Widgets:** * `ListView.builder`: Optimized for performance by rendering only visible items.
@@ -53,6 +55,10 @@ https://res.cloudinary.com/dq3jkpys8/image/upload/v1774644589/registration_lab_r
 * **Logic:** Mapping structured data objects (JSON-style) into reusable UI components.
 
 ### 4. Bottom Navigation Lab (`bottom_nav_lab`)
+<img src="https://res.cloudinary.com/dq3jkpys8/image/upload/v1774644717/navigation_live_view_bfvnzv.png" width="100%" style="border-radius:10px;" />
+
+
+
 **Concept:** A multi-module application dashboard.
 * **Technical Focus:** Navigation Routing and `IndexedStack` persistence.
 * **Key Widgets:** * `BottomNavigationBar`: For intuitive module switching.
