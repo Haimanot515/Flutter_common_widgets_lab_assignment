@@ -33,8 +33,8 @@ This repository serves as a comprehensive technical demonstration of cross-platf
 * **Challenge:** Achieving "Industrial Minimalist" design using precise padding and margin constraints.
 
 ### 2. Registration Form Lab (`registration_lab`)
-<img src="https://res.cloudinary.com/dq3jkpys8/image/upload/v1774644589/registration_lab_resxbm.png
-" width="100%" style="border-radius:10px;" />
+<img src="https://res.cloudinary.com/dq3jkpys8/image/upload/v1774644589/registration_lab_resxbm.png" width="100%" style="border-radius:10px;" />
+
 
 https://res.cloudinary.com/dq3jkpys8/image/upload/v1774644589/registration_lab_resxbm.png
 **Concept:** A robust user onboarding system with integrated validation logic.
