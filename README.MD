@@ -23,6 +23,8 @@ This repository serves as a comprehensive technical demonstration of cross-platf
 ## 📂 Laboratory Breakdown & Technical Specifications
 
 ### 1. Profile Card Lab (`profile_card_lab`)
+<img src="https://res.cloudinary.com/dq3jkpys8/image/upload/v1770186676/projects/mukxuhhhd91xpzp16sel.png" width="100%" style="border-radius:10px;" />
+
 **Concept:** Developing a sleek, professional digital identity card.
 * **Technical Focus:** Mastering the Coordinate System and Layering.
 * **Key Widgets:** * `CircleAvatar`: For high-resolution asset clipping.
