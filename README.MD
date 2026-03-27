@@ -1,6 +1,6 @@
-# 📱 Flutter Common Widgets: Lab Assignment Series
+#  Flutter Common Widgets: Lab Assignment Series
 
-## 👤 Student Information
+##  Student Information
 # **Name:** HAIMANOT BEKA MEKONNEN  
 # **ID:** UGR/0869/13  
 # **Section:** 1  
@@ -9,10 +9,10 @@
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 This repository serves as a comprehensive technical demonstration of cross-platform UI development using the **Flutter SDK** and **Dart Programming Language**. It encapsulates four distinct laboratory assignments, each designed to master specific architectural challenges in mobile application development, ranging from static layout composition to complex state-managed navigation.
 
-### 🎯 Educational Objectives
+###  Educational Objectives
 * **Declarative UI Mastery:** Implementing complex nested widget trees.
 * **State Management:** Handling user input and real-time form validation.
 * **Dynamic Rendering:** Utilizing lazy-loading lists for performance optimization.
@@ -20,7 +20,7 @@ This repository serves as a comprehensive technical demonstration of cross-platf
 
 ---
 
-## 📂 Laboratory Breakdown & Technical Specifications
+##  Laboratory Breakdown & Technical Specifications
 
 ### 1. Profile Card Lab (`profile_card_lab`)
 <img src="https://res.cloudinary.com/dq3jkpys8/image/upload/v1774644401/profile_lab_lmyqgv.png" width="100%" style="border-radius:10px;" />
@@ -67,7 +67,7 @@ This repository serves as a comprehensive technical demonstration of cross-platf
 
 ---
 
-## 🛠 Technical Stack & Tools
+##  Technical Stack & Tools
 * **Framework:** Flutter 3.x
 * **Language:** Dart (Strongly Typed)
 * **State Management:** `setState` (Ephemeral State)
@@ -76,7 +76,7 @@ This repository serves as a comprehensive technical demonstration of cross-platf
 
 ---
 
-## ⚙️ Installation and Execution Guide
+##  Installation and Execution Guide
 
 To replicate the development environment and run these labs locally:
 
