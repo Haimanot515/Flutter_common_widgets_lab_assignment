@@ -1,7 +1,58 @@
-build/
-.dart_tool/
-.flutter-plugins
-.flutter-plugins-dependencies
-.packages
-.pub-cache/
-.pub/
+# Miscellaneous
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+.atom/
+.buildlog/
+.history
+.svn/
+migrate_assets.pl
+
+# IntelliJ related
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# The Visual Studio Code related
+.vscode/
+.history/
+*.code-workspace
+
+# Flutter/Dart related
+**/build/
+**/.dart_tool/
+**/.flutter-plugins
+**/.flutter-plugins-dependencies
+**/.packages
+**/.pub-cache/
+**/.pub/
+**/pubspec.lock
+
+# Android related
+**/android/**/generated/
+**/android/key.properties
+**/android/local.properties
+**/android/.gradle/
+**/android/captures/
+**/android/gradlew
+**/android/gradlew.bat
+**/android/app/src/main/res/mipmap-*
+
+# iOS/macOS related
+**/ios/Flutter/Generated.xcconfig
+**/ios/Flutter/flutter_export_environment.sh
+**/ios/Runner/GeneratedPluginRegistrant.[hm]
+**/ios/Runner/GeneratedPluginRegistrant.swift
+**/ios/Pods/
+**/ios/.layers/
+**/macos/Flutter/ephemeral/
+
+# Windows related
+**/windows/flutter/ephemeral/
+**/windows/flutter/generated_plugin_registrant.[hm]
+
+# Web related
+**/node_modules/
